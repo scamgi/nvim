@@ -1,4 +1,12 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+To clone this repository, do:
+
+```sh
+git clone https://github.com/scamgi/nvim ~/.config/nvim
+```
+
+Then open nvim:
+```sh
+nvim
+```
